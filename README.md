@@ -281,7 +281,7 @@ $$\text{Regret}_T = \sum_{t=1}^T (R_{optimal} - R_t)$$
 #### Average Reward Comparison
 
 <div align="center">
-<img src="results/10-armed-gaussian-comparison.png" alt="10-Armed Gaussian Comparison" width="900">
+<img src="https://github.com/patidarmonesh/Multi-Armed-Bandit/blob/main/results/10-armed-gaussian-comparison.png" alt="10-Armed Gaussian Comparison" width="900">
 </div>
 
 **Performance Rankings:**
@@ -313,7 +313,7 @@ $$\text{Regret}_T = \sum_{t=1}^T (R_{optimal} - R_t)$$
 #### Regret Comparison
 
 <div align="center">
-<img src="results/10-armed-regret-comparison.png" alt="10-Armed Gaussian Regret" width="900">
+<img src="results/10 armed regret comparision.png" alt="10-Armed Gaussian Regret" width="900">
 </div>
 
 **Cumulative Regret Analysis:**
@@ -336,7 +336,7 @@ $$\text{Regret}_T = \sum_{t=1}^T (R_{optimal} - R_t)$$
 #### Optimal Action Selection
 
 <div align="center">
-<img src="results/optimal-action-vs-episode-for-10-armed.png" alt="10-Armed Optimal Actions" width="900">
+<img src="https://github.com/patidarmonesh/Multi-Armed-Bandit/blob/main/results/optimal%20action%20vs%20episode%20for%2010%20amrmed.png" alt="10-Armed Optimal Actions" width="900">
 </div>
 
 **Percentage Optimal Action Selection:**
@@ -360,7 +360,7 @@ $$\text{Regret}_T = \sum_{t=1}^T (R_{optimal} - R_t)$$
 #### Epsilon Parameter Comparison
 
 <div align="center">
-<img src="results/plots-for-MAB.png" alt="Epsilon Sensitivity Analysis" width="900">
+<img src="https://github.com/patidarmonesh/Multi-Armed-Bandit/blob/main/results/plots%20for%20MAB.png" alt="Epsilon Sensitivity Analysis" width="900">
 </div>
 
 **Top Plot - Average Reward vs Steps:**
@@ -390,7 +390,7 @@ Testing $\epsilon \in \{0.0, 0.01, 0.1\}$ on 10-armed Gaussian:
 #### Decay Strategy Comparison
 
 <div align="center">
-<img src="results/linear-vs-exponential-decay.png" alt="Linear vs Exponential Decay" width="700">
+<img src="https://github.com/patidarmonesh/Multi-Armed-Bandit/blob/main/results/linear%20vs%20exponential%20decay.png" alt="Linear vs Exponential Decay" width="700">
 </div>
 
 **Exponential Step-Size Decay Visualization:**
