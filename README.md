@@ -570,7 +570,7 @@ CS780-Multi-Armed-Bandit/
 │
 ├── README.md                                          # This comprehensive documentation
 ├── requirements.txt                                   # Python dependencies
-├── CS780-A1-Mrityunjay-Kumar-230668.ipynb            # Main assignment notebook
+├── CS780 Assignment 1.ipynb                           # Main assignment notebook
 │
 ├── results/                                           # All experimental visualizations
 │   ├── 2-armed-bernoulli-comparison.jpg              # 2-armed reward comparison
@@ -588,12 +588,7 @@ CS780-Multi-Armed-Bandit/
 │   ├── TD-target.jpg                                 # TD target distribution
 │   ├── EVMC-target.jpg                               # Every-visit MC targets
 │   ├── target-distributions.jpg                      # Target distribution analysis
-│   └── kuch-to.jpg                                   # Additional analysis
-│
-└── docs/                                              # Additional documentation (optional)
-    ├── theory.md                                     # Theoretical background
-    ├── algorithms.md                                 # Algorithm pseudocode
-    └── experiments.md                                # Detailed experimental notes
+│   
 ```
 
 ---
@@ -785,7 +780,7 @@ Potential directions for extending this research:
 
 ---
 
-**Repository**: [CS780-Multi-Armed-Bandit](https://github.com/patidarmonesh/Multi-Armed-Bandit)
+**Repository**: [Multi-Armed-Bandit](https://github.com/patidarmonesh/Multi-Armed-Bandit)
 
 **Course Website**: [CS780 - IIT Kanpur](https://www.cse.iitk.ac.in/pages/CS780.html)
 ---
