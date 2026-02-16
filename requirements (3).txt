@@ -1,0 +1,18 @@
+# CS780 Assignment 1 - Multi-Armed Bandit
+# Python Dependencies
+
+# Core RL Framework
+gymnasium>=1.2.0
+
+# Numerical Computing
+numpy>=1.21.0
+
+# Plotting and Visualization
+matplotlib>=3.5.0
+
+# Optional: Scientific Computing
+scipy>=1.7.0
+
+# Optional: Jupyter Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
